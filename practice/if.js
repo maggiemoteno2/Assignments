@@ -59,6 +59,6 @@ else if(balance < value){
 }
  }
 
-console.log(giveUserBalance(100));
+console.log(giveUserBalance(0));
 var total= balance;
 console.log("current balance",total);

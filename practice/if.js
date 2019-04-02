@@ -55,7 +55,7 @@ console.log("balance",balance);
 else if(balance < value){
   return value + "Insufficient funds";
 }else{
-  return;
+  return 0;
 }
  }
 

@@ -15,4 +15,6 @@ function withdraw(withdrawalAmount) {
   }
 }
 console.log("Current Balance " + giveUserBalance());
-withdraw(20);
+withdraw(2458);
+withdraw(100);
+withdraw(25);

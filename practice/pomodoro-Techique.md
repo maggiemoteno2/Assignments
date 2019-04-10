@@ -4,6 +4,7 @@ Title: "pomodoro Techique"
 Date: 2019-04-10
 --- 
 ###pomodoro Techique
+ Emails, texts, phone calls and even snack breaks prevent us from focusing on and effectively executing  a single task at a time. For decades.
 
 Pomodoro is a way to help us manage our time more efficiently
 by having breaks in between small sessions of focused work time which keeps our minds focused and fresh.

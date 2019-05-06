@@ -31,7 +31,7 @@ number *= 5;
 //using splice to remove fruits
 var fruits = ['bananas', 'Apple', 'Orange', 'Lemon'];
 fruits.splice(2, 1);
-//console.log(fruits);
+console.log(fruits);
 //e.g of slice
 var names = ["Mags","Aggie","Shy","Mat"];
 names.slice(3,1);
@@ -48,9 +48,9 @@ if( num < 10){
   return num + " its greater than 10"
   ;
 }
+
+  //console.log(myName(11));
+//console.log("balance",balance);
+//console.log("value",value);
 }
-  console.log(myName(11));
-console.log("balance",balance);
-console.log("value",value);
-}
-console.log(GiveUserBalance(100));
+//console.log(GiveUserBalance(100));
